@@ -1,4 +1,9 @@
 # The-Labyrinth
+HOW TO DOWNLOAD:
+Download the GameBuild_x86 or the GameBuild_x64. Click on "The Labyrinth.exe" to launch the game.
+
+
+ABOUT:
 A 3rd Person Maze Solver
 
 The Labyrinth is a maze solver with a 3rd person perspective camera. 
